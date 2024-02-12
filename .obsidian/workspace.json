@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "7ee0912fde72a655",
+    "type": "split",
+    "children": [
+      {
+        "id": "c063a57a6d4ad94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a9f384d564317ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processor Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92df3b820dbede8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f5483278625d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da283f6e55b0fa36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6b5de0bb1153da0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb56b1786258cd5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63e620eb396a583d",
+    "type": "split",
+    "children": [
+      {
+        "id": "336d6e10cd0271c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e4931fc2b72641",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Processor Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4ed5a34cde50506",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Processor Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cae531e52149de93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8511bd64c7379ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Processor Architecture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2a9f384d564317ed",
+  "lastOpenFiles": [
+    "ALU.excalidraw.md",
+    "RISC-V.excalidraw.md",
+    "Processor Architecture.md",
+    "RISC-V.md",
+    "RISC-V.excalidraw",
+    "ALU.excalidraw",
+    "ALU.md",
+    "Excalidraw"
+  ]
+}
