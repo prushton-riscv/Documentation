@@ -8,19 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a9f384d564317ed",
+            "id": "0a461bcefb8de396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Assembly.md",
-                "mode": "source",
-                "source": false
+                "file": "RISC-V.excalidraw.md"
               }
             }
           },
           {
-            "id": "2902f5cae9ddc1a7",
+            "id": "910cb5d10e3f5584",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly.md",
+                "file": "RISC-V.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assembly.md",
+                "file": "RISC-V.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assembly.md"
+                "file": "RISC-V.excalidraw.md"
               }
             }
           }
@@ -159,12 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a9f384d564317ed",
+  "active": "0a461bcefb8de396",
   "lastOpenFiles": [
-    "Processor Architecture.md",
-    "RISC-V.excalidraw.md",
     "Assembly.md",
+    "RISC-V.excalidraw.md",
     "ALU.excalidraw.md",
+    "Processor Architecture.md",
     "RISC-V.md",
     "RISC-V.excalidraw",
     "ALU.excalidraw",
