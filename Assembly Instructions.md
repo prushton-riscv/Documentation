@@ -10,6 +10,16 @@ See [[Assembly Structure]] for structure of instructions
 | add | R | Add | `add rd rs1 rs2` | `rd = rs1 + rs2` | 0000_0000_0000 | 00_0000_0000 |
 | sub | R | Subtract | `sub rd rs1 rs2` | `rd = rs1 - rs2` | 0000_0000_0000 | 00_0000_0001 |
 | mul | R | Multiply | `mul rd rs1 rs2` | `rd = rs1 * rs2` | 0000_0000_0000 | 00_0000_0010 |
+| and | R | and |  |  | 0000_0000_0000 | 00_0000_0011 |
+| or | R | or |  |  | 0000_0000_0000 | 00_0000_0100 |
+| xor | R | xor |  |  | 0000_0000_0000 | 00_0000_0101 |
+| slt | R | set less than |  |  | 0000_0000_0000 | 00_0000_0110 |
+| sgt | R | set greater than |  |  | 0000_0000_0000 | 00_0000_0111 |
+| seq | R | set equals |  |  | 0000_0000_0000 | 00_0000_1000 |
+| addc | R | add carry |  |  | 0000_0000_0000 | 00_0000_1001 |
+| mulc | R | multiply carry |  |  | 0000_0000_0000 | 00_0000_1010 |
+| lshift | R | left shift |  |  | 0000_0000_0000 | 00_0000_1011 |
+| rshift | R | right shift |  |  | 0000_0000_0000 | 00_0000_1100 |
 |  |  |  |  |  |  |  |
 | addi | I | Add Immediate | `addi ds rs1 imm` | `rd = rs1 + imm` | 0001_0000_0000 | 00_0000_0000 |
 | subi | I | Subtract Immediate | `subi rd rs1 imm` | `rd = rs1 - imm` | 0001_0000_0000 | 00_0000_0001 |
@@ -20,7 +30,7 @@ See [[Assembly Structure]] for structure of instructions
 | blt | I | Branch if Less Than | `blt rs1 rs2 _label` | `if(rs1 < rs2) pc = &_label` | 0001_0000_0010 | 00_0000_0000 |
 | bgt | I | Branch if Greater Than | `bgt rs1 rs2 _label` | `if(rs1 > rs2) pc = &_label` | 0001_0000_0010 | 00_0000_0000 |
 |  |  |  |  |  |  |  |
-| sw | S | Save Word | `sw ma rs[offset]` | `ma = *(rs+offset)` | 0010_0000_0000 | 00_0000_0000 |
+| sw | S | Save Word | `sw ma[offset] rs` | `(ma+offset) = rs` | 0010_0000_0000 | 00_0000_0000 |
 |  |  |  |  |  |  |  |
 | lw | L | Load Word | `lw rd ma[offset]` | `rd = *(ma+offset)` | 0011_0000_0000 | 00_0000_0000 |
 

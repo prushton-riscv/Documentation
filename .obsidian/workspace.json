@@ -6,6 +6,7 @@
       {
         "id": "c063a57a6d4ad94e",
         "type": "tabs",
+        "dimension": 72.5253807106599,
         "children": [
           {
             "id": "0a461bcefb8de396",
@@ -14,18 +15,6 @@
               "type": "markdown",
               "state": {
                 "file": "Processor Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "910cb5d10e3f5584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assembly Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +31,7 @@
             }
           },
           {
-            "id": "16db7bb3c4133a04",
+            "id": "910cb5d10e3f5584",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +43,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "3f3168a957aa3279",
+        "type": "tabs",
+        "dimension": 27.4746192893401,
+        "children": [
+          {
+            "id": "16db7bb3c4133a04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ALU.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,14 +188,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16db7bb3c4133a04",
+  "active": "910cb5d10e3f5584",
   "lastOpenFiles": [
-    "Assembly Structure.md",
-    "Processor Architecture.md",
+    "ALU.excalidraw.md",
     "Assembly Instructions.md",
     "RISC-V.excalidraw.md",
+    "Assembly Structure.md",
+    "Processor Architecture.md",
     "logic-gates.excalidrawlib",
-    "ALU.excalidraw.md",
     "RISC-V.md",
     "RISC-V.excalidraw",
     "ALU.excalidraw",
