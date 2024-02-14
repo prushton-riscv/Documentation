@@ -6,6 +6,8 @@ This processor is a fork of the risc-v processor architecture. After reviewing t
 This is the entire architecture of the processor. View [[RISC-V.excalidraw]] for a higher definition image
 ![[RISC-V.excalidraw]]
 
+Note all blue signals are sent to the second core, which is functionally the same as the primary core.
+
 Here are some of the key differences that I did to allow for more efficient assembly:
 * Jump address can be called from a register, processed in the ALU, and wroteback in the same cycle
 * ALU can be sourced from the immediate and the program counter, and these are on source b and a respectively
