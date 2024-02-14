@@ -6,27 +6,14 @@
       {
         "id": "c063a57a6d4ad94e",
         "type": "tabs",
-        "dimension": 72.5253807106599,
         "children": [
-          {
-            "id": "0a461bcefb8de396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Processor Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "111a167c0a83ce74",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "RISC-V.excalidraw.md"
+                "file": "ALU.excalidraw.md"
               }
             }
           },
@@ -43,24 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "3f3168a957aa3279",
-        "type": "tabs",
-        "dimension": 27.4746192893401,
-        "children": [
-          {
-            "id": "16db7bb3c4133a04",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ALU.excalidraw.md"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +161,10 @@
   "active": "910cb5d10e3f5584",
   "lastOpenFiles": [
     "ALU.excalidraw.md",
-    "Assembly Instructions.md",
     "RISC-V.excalidraw.md",
-    "Assembly Structure.md",
     "Processor Architecture.md",
+    "Assembly Instructions.md",
+    "Assembly Structure.md",
     "logic-gates.excalidrawlib",
     "RISC-V.md",
     "RISC-V.excalidraw",
