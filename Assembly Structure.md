@@ -3,25 +3,25 @@ Since a lot of risc processors tend to be 32 bit, I decided to make mine 64 bit.
 # 64 Bit
 
 ## R Type
-| 63 - 54 | 53 - 42 | 41 - 32 | 31 - 22 | 21 - 12 | 11 - 0 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| funct | imm | rs2 | rs1 | rd | opcode |
+| 63 - 42 | 41 - 32 | 31 - 22 | 21 - 12 | 11 - 0 |
+| ---- | ---- | ---- | ---- | ---- |
+| -- | rs2 | rs1 | rd | opcode |
 
 ## I Type
-| 63 - 54 | 53 - 32 | 31 - 22 | 21 - 12 | 11 - 0 |
-| ---- | ---- | ---- | ---- | ---- |
-| funct | imm | rs1 | rd | opcode |
+| 63 - 32 | 31 - 22 | 21 - 12 | 11 - 0 |
+| ---- | ---- | ---- | ---- |
+| imm | rs1 | rd | opcode |
 
 ## S Type
-| 63 - 54 | 53 - 42 | 41-32 | 31 - 22 | 21 - 12 | 11 - 0 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| funct | offset | rs | ma | -- | opcode |
+| 63 - 42 | 41-32 | 31 - 22 | 21 - 12 | 11 - 0 |
+| ---- | ---- | ---- | ---- | ---- |
+| offset | rs | ma | -- | opcode |
 ma is memory address
 rs is register to save to memory
 ## L Type
-| 63 - 54 | 53 - 42 | 41-32 | 31 - 22 | 21 - 12 | 11 - 0 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| funct | offset | -- | ma | rd | opcode |
+| 63 - 42 | 41-32 | 31 - 22 | 21 - 12 | 11 - 0 |
+| ---- | ---- | ---- | ---- | ---- |
+| offset | -- | ma | rd | opcode |
 ma is memory address
 rd is register address to save memory to
 
