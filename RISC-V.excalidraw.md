@@ -563,8 +563,8 @@ Instruction ^GyVfXxoj
 		},
 		{
 			"type": "rectangle",
-			"version": 3148,
-			"versionNonce": 2045112001,
+			"version": 3150,
+			"versionNonce": 2145628422,
 			"isDeleted": false,
 			"id": "sVkigcfPJ7yiyhZKF02bn",
 			"fillStyle": "solid",
@@ -586,7 +586,7 @@ Instruction ^GyVfXxoj
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708133469782,
+			"updated": 1708308437539,
 			"link": null,
 			"locked": false
 		},
@@ -671,8 +671,8 @@ Instruction ^GyVfXxoj
 		},
 		{
 			"type": "text",
-			"version": 3229,
-			"versionNonce": 295700463,
+			"version": 3230,
+			"versionNonce": 1912457990,
 			"isDeleted": false,
 			"id": "vsl8Jti3",
 			"fillStyle": "solid",
@@ -695,7 +695,7 @@ Instruction ^GyVfXxoj
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708133469782,
+			"updated": 1708308442589,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.00000000000002,
@@ -1763,8 +1763,8 @@ Instruction ^GyVfXxoj
 		},
 		{
 			"type": "text",
-			"version": 451,
-			"versionNonce": 1162857665,
+			"version": 452,
+			"versionNonce": 771991685,
 			"isDeleted": false,
 			"id": "GKjaw4DC",
 			"fillStyle": "solid",
@@ -1786,7 +1786,7 @@ Instruction ^GyVfXxoj
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708133469785,
+			"updated": 1708357854957,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1798,7 +1798,7 @@ Instruction ^GyVfXxoj
 			"containerId": null,
 			"originalText": "ALUOp\nALUSrcB\nMemWrite\nRegWrite\nPCSrc\nWDSrc\nALUSrcA\nImmSrc\nIMemWrite",
 			"lineHeight": 1.2,
-			"baseline": 211
+			"baseline": 210
 		},
 		{
 			"type": "line",
@@ -6839,8 +6839,8 @@ Instruction ^GyVfXxoj
 		},
 		{
 			"type": "text",
-			"version": 313,
-			"versionNonce": 1561858223,
+			"version": 314,
+			"versionNonce": 1674366539,
 			"isDeleted": false,
 			"id": "GyVfXxoj",
 			"fillStyle": "solid",
@@ -6860,7 +6860,7 @@ Instruction ^GyVfXxoj
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708133469794,
+			"updated": 1708357854965,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.583572362241906,
@@ -6872,7 +6872,7 @@ Instruction ^GyVfXxoj
 			"containerId": null,
 			"originalText": "Instruction",
 			"lineHeight": 1.2,
-			"baseline": 17
+			"baseline": 16
 		},
 		{
 			"type": "line",
@@ -6932,10 +6932,10 @@ Instruction ^GyVfXxoj
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1032.5949833407046,
-		"scrollY": 343.0030880113298,
+		"scrollX": -1137.5219411637354,
+		"scrollY": 357.15408237902466,
 		"zoom": {
-			"value": 0.700493378271625
+			"value": 0.7000000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
