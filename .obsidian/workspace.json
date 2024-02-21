@@ -33,9 +33,11 @@
             "id": "af673427dd2f642e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ALU.excalidraw.md"
+                "file": "Assembly Structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -52,6 +54,16 @@
             }
           },
           {
+            "id": "9d04f2a257be466b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ALU.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "910cb5d10e3f5584",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V.excalidraw.md",
+                "file": "Assembly Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V.excalidraw.md",
+                "file": "Assembly Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V.excalidraw.md"
+                "file": "Assembly Structure.md"
               }
             }
           }
@@ -191,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "111a167c0a83ce74",
+  "active": "af673427dd2f642e",
   "lastOpenFiles": [
     "Assembly Instructions.md",
     "RISC-V.excalidraw.md",

@@ -3723,8 +3723,8 @@ Instruction ^GyVfXxoj
 		},
 		{
 			"type": "line",
-			"version": 197,
-			"versionNonce": 246316513,
+			"version": 198,
+			"versionNonce": 909106527,
 			"isDeleted": false,
 			"id": "FikKaXYlrgDgfezG3vVVC",
 			"fillStyle": "solid",
@@ -3734,7 +3734,7 @@ Instruction ^GyVfXxoj
 			"opacity": 100,
 			"angle": 0,
 			"x": 2190.183764564418,
-			"y": 16.635750001389454,
+			"y": 15.207178572818009,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
 			"width": 1688.9702364575624,
@@ -3744,7 +3744,7 @@ Instruction ^GyVfXxoj
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708133469788,
+			"updated": 1708460933161,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6932,10 +6932,10 @@ Instruction ^GyVfXxoj
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1026.7566251329029,
-		"scrollY": 122.50628653470018,
+		"scrollX": -1835.6572795096022,
+		"scrollY": 401.5436927686362,
 		"zoom": {
-			"value": 1.017934897798225
+			"value": 0.7000000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
