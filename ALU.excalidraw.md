@@ -135,8 +135,8 @@ A >> B ^OIeCJjAo
 			"y": -823.167403551376,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 358.4347817201287,
-			"height": 244.69147765427454,
+			"width": 358.4014892578125,
+			"height": 244.6914776542745,
 			"seed": 682964025,
 			"groupIds": [],
 			"frameId": null,
@@ -154,7 +154,7 @@ A >> B ^OIeCJjAo
 			"containerId": null,
 			"originalText": "ALU",
 			"lineHeight": 1.2,
-			"baseline": 194
+			"baseline": 196
 		},
 		{
 			"type": "line",
@@ -8568,8 +8568,8 @@ A >> B ^OIeCJjAo
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 1363934698,
+			"version": 128,
+			"versionNonce": 1617059868,
 			"isDeleted": false,
 			"id": "mOZEPIX0",
 			"fillStyle": "hachure",
@@ -8589,7 +8589,7 @@ A >> B ^OIeCJjAo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708366864466,
+			"updated": 1708479692278,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8736,7 +8736,7 @@ A >> B ^OIeCJjAo
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 16.40625,
-			"height": 33.599999999999994,
+			"height": 33.6,
 			"seed": 215921305,
 			"groupIds": [],
 			"frameId": null,
@@ -8754,7 +8754,7 @@ A >> B ^OIeCJjAo
 			"containerId": null,
 			"originalText": "Y",
 			"lineHeight": 1.2,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "rectangle",
@@ -8826,8 +8826,8 @@ A >> B ^OIeCJjAo
 		},
 		{
 			"type": "text",
-			"version": 358,
-			"versionNonce": 329822378,
+			"version": 359,
+			"versionNonce": 361250724,
 			"isDeleted": false,
 			"id": "ilPDOueO",
 			"fillStyle": "hachure",
@@ -8849,7 +8849,7 @@ A >> B ^OIeCJjAo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708366864467,
+			"updated": 1708479692280,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.500869597382001,
@@ -9477,10 +9477,10 @@ A >> B ^OIeCJjAo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1214,
-		"scrollY": 888.9166666666667,
+		"scrollX": 1058.2857142857142,
+		"scrollY": 882.1785714285714,
 		"zoom": {
-			"value": 0.75
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

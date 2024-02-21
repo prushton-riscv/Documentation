@@ -1,5 +1,6 @@
 Since a lot of risc processors tend to be 32 bit, I decided to make mine 64 bit. This would give me more room for registers, memory addresses, opcodes, funct codes, etc. Perhaps I could make the opcode a 1:1 corresponding to the bits?
-
+		Future me here: No
+		
 # 64 Bit
 
 ## R Type
@@ -25,7 +26,10 @@ rs is register to save to memory
 ma is memory address
 rd is register address to save memory to
 
-
+## J Type
+| 63 - 42 | 41 - 32 | 31-22 | 21 - 12 | 11 - 0 |
+| ---- | ---- | ---- | ---- | ---- |
+| imm | rs2 | rs1 | -- | opcode |
 
 
 # Old Stuff

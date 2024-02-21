@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7ee0912fde72a655",
+    "id": "1c98b292f4f28f01",
     "type": "split",
     "children": [
       {
-        "id": "c063a57a6d4ad94e",
+        "id": "c7a7988335dc384a",
         "type": "tabs",
         "children": [
           {
-            "id": "111a167c0a83ce74",
+            "id": "c7564bb597d5fc5e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -16,93 +16,22 @@
                 "file": "RISC-V.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "d61f30390a4c9302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d666365d0e43126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assembly Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f70436802ce7e44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assembly Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af673427dd2f642e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ALU.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b0e739cdc95c03a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assembly Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "910cb5d10e3f5584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assembly Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "92df3b820dbede8d",
+    "id": "209d5fd3a1db6816",
     "type": "split",
     "children": [
       {
-        "id": "31f5483278625d5c",
+        "id": "f7cd10fe3e49313d",
         "type": "tabs",
         "children": [
           {
-            "id": "da283f6e55b0fa36",
+            "id": "72b3eab09e18a664",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -112,7 +41,7 @@
             }
           },
           {
-            "id": "e6b5de0bb1153da0",
+            "id": "f5e5fb0e8eb0fbcf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -127,7 +56,7 @@
             }
           },
           {
-            "id": "eb56b1786258cd5f",
+            "id": "7e07e91e0932c371",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -141,20 +70,20 @@
     "width": 300
   },
   "right": {
-    "id": "63e620eb396a583d",
+    "id": "1318cecc434a9d06",
     "type": "split",
     "children": [
       {
-        "id": "336d6e10cd0271c1",
+        "id": "58b4bfdf7e87e969",
         "type": "tabs",
         "children": [
           {
-            "id": "d9e4931fc2b72641",
+            "id": "e2d094d5432f0511",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System.md",
+                "file": "RISC-V.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,19 +95,19 @@
             }
           },
           {
-            "id": "a4ed5a34cde50506",
+            "id": "667ff94b8e72f69a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System.md",
+                "file": "RISC-V.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cae531e52149de93",
+            "id": "5d13f56e5b47bce4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,12 +118,12 @@
             }
           },
           {
-            "id": "8511bd64c7379ce2",
+            "id": "86e505dd7a914959",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System.md"
+                "file": "RISC-V.excalidraw.md"
               }
             }
           }
@@ -216,19 +145,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d61f30390a4c9302",
+  "active": "c7564bb597d5fc5e",
   "lastOpenFiles": [
-    "RISC-V.excalidraw.md",
-    "Operating System.md",
     "ALU.excalidraw.md",
-    "Assembly Structure.md",
     "Assembly Instructions.md",
+    "Assembly Structure.md",
+    "Operating System.md",
     "Processor Architecture.md",
-    "logic-gates.excalidrawlib",
-    "RISC-V.md",
-    "RISC-V.excalidraw",
-    "ALU.excalidraw",
-    "ALU.md",
-    "Excalidraw"
+    "RISC-V.excalidraw.md"
   ]
 }
